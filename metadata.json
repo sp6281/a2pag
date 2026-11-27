@@ -1,0 +1,6 @@
+{
+  "name": "AQA A2 Chemistry Virtual Lab & Electronic Workbook",
+  "description": "Interactive virtual chemistry laboratory and electronic CPAC workbook for AQA A-Level Chemistry Year 2 core and optional practicals (7a, 7b, 8, 9, 10, 11, 12b, 12c) with save and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
